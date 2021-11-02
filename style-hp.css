@@ -1,0 +1,39 @@
+body {
+  background-image: url('assets/background.jpg');
+  font-family: 'Open Sans';
+  font-size: 22px;
+}
+p,
+h3 {
+  color: white;
+}
+
+.satu {
+  background-color: #ebba4a;
+  opacity: 77%;
+  text-align: center;
+}
+.dua {
+  background-color: #e8a03e;
+  opacity: 77%;
+  text-align: center;
+}
+.tiga {
+  background-color: #5ac6fa;
+  opacity: 77%;
+  text-align: center;
+}
+.empat {
+  background-color: #459ce3;
+  opacity: 77%;
+  text-align: center;
+}
+.lima {
+  background-color: #e3634d;
+  opacity: 77%;
+  text-align: center;
+}
+svg {
+  height: 100px;
+  width: 100px;
+}
